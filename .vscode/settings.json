@@ -1,0 +1,7 @@
+{
+    "window.autoDetectColorScheme": true,
+    "auto-close-tag.SublimeText3Mode": true,
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 16,
+    "editor.wordWrap": "on"
+}
